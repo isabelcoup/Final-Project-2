@@ -1,0 +1,346 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+E|Orcinus_orca              ATGGCCGAGGCCCCCCCGCGCCGCCTCGGCCTAGCCCCCCTGCCCGCGGA
+NE|Homo_sapiens             ATGGCCGAGGCCCCCCCGCGCCGCCTCGGCCTGGGTCCCCCGCCCGGGGA
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        --------------------------------------------------
+NE|Pteropus_vampyrus        --------------------------------------------------
+                                                                              
+
+E|Orcinus_orca              TGCCCCCCGCGCCGAGCTGGTGGCGCTCACGGCGGTGCAGAGCGAGCGGG
+NE|Homo_sapiens             CGCCCCCCGCGCGGAGCTAGTGGCGCTCACGGCCGTGCAGAGCGAACAGG
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        --------------------------------------------------
+NE|Pteropus_vampyrus        --------------------------------------------------
+                                                                              
+
+E|Orcinus_orca              GCGAGGCGGGCGGGGGCGGCTCCCCGCGCCGCCTGGGCCTCCTGGGCAGC
+NE|Homo_sapiens             GCGAGGCGGGCGGGGGCGGCTCCCCGCGCCGCCTCGGCCTCCTGGGCAGC
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        --------------------------------------------------
+NE|Pteropus_vampyrus        --------------------------------------------------
+                                                                              
+
+E|Orcinus_orca              CCCCTGCCGCCGGGCGCGCCCCTCCCAGGGCCGGGCTCGGGCTCGGGCTC
+NE|Homo_sapiens             CCCCTGCCGCCGGGCGCGCCCCTCCCTGGGCCGGGCTCCGGCTCGGGCTC
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        --------------------------------------------------
+NE|Pteropus_vampyrus        --------------------------------------------------
+                                                                              
+
+E|Orcinus_orca              CGCCTGCGGCCAGCGCTCCTCGGTCGCGTACAAGCGCTACCGACGCCTGC
+NE|Homo_sapiens             CGCCTGCGGCCAGCGCTCCTCGGCCGCGCACAAGCGCTACCGCCGCCTGC
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        --------------------------------------------------
+NE|Pteropus_vampyrus        --------------------------------------------------
+                                                                              
+
+E|Orcinus_orca              AGAACTGGGTCTACAACGTGCTGGAGCGACCCCGCGGCTGGGCCTTCGTC
+NE|Homo_sapiens             AGAACTGGGTCTACAACGTGCTGGAGCGGCCCCGCGGCTGGGCCTTCGTC
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        --------------------CTGGAGCGCCCTCGCGGCTGGGCCTTCGTC
+NE|Pteropus_vampyrus        ---------------------------------ATGGGGGGCCGGAGGGA
+                                                                              
+
+E|Orcinus_orca              TACCACGTCTTC-ATATTTTTGCTGGTCTTCAGCTGCCTGGTGCTGTCCG
+NE|Homo_sapiens             TACCACGTCTTC-ATATTTTTGCTGGTCTTCAGCTGCCTGGTGCTGTCTG
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        TACCACGTCTTC-ATATTTTTGCTGGTGTTCAGCTGCCTGGTGCTGTCCG
+NE|Pteropus_vampyrus        GATCAAGTTCAAGAGATTTTTGCTGGTGTTCAGCTGCCTGGTGCTGTCTG
+                                                                              
+
+E|Orcinus_orca              TGCTGTCCACTATCCCGGAGCACCAGGAAATTGCCAACGAGTGTCTCCTT
+NE|Homo_sapiens             TGCTGTCCACTATCCAGGAGCACCAGGAACTTGCCAACGAGTGTCTCCTC
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        TGCTTTCCACTATCCAGGAGCACCAGGAACTTGCCAACGAGTGTCTCCTC
+NE|Pteropus_vampyrus        TGCTTTCCACTATCCAGGAGCACCAGGAACTTGCCAACGAGTGTCTCCTC
+                                                                              
+
+E|Orcinus_orca              ATCTTGGAATTCGTGATGATCGTGGTGTTTGGTCTGGAGTACATCATCCG
+NE|Homo_sapiens             ATCTTGGAATTCGTGATGATCGTGGTTTTCGGCTTGGAGTACATCGTCCG
+E|Eptesicus_fuscus          ---------------ATGATCGTGGTGTTTGGCCTGGAGTACATCATCCG
+E|Hipposideros_armiger      ---------------ATGATTGTGGTGTTTGGCCTGGAGTACATCATCCG
+NE|Cynopterus_sphinx        ATCTTGGAGTTTGTGATGATCGTGGTGTTTGGCCTGGAGTACATCATCCG
+NE|Pteropus_vampyrus        ATCTTGGAGTTTGTGATGATCGTGGTGTTTGGCCTGGAGTACATCATCCG
+                                           ***** ***** ** **  *********** ****
+
+E|Orcinus_orca              CATCTGGTCCGCGGGATGCTGCTGCCGCTACCGAGGATGGCAGGGCCGTT
+NE|Homo_sapiens             GGTCTGGTCCGCCGGATGCTGCTGCCGCTACCGAGGATGGCAGGGTCGCT
+E|Eptesicus_fuscus          TGTCTGGTCGGCGGGATGCTGCTGCCGCTACCGAGGATGGCAGGGCCGCT
+E|Hipposideros_armiger      CGTCTGGTCTGCTGGATGTTGCTGCCGCTACAGAGGATGGCAGGGCCGCT
+NE|Cynopterus_sphinx        TGTCTGGTCGGCTGGATGCTGCTGCCGCTACCGAGGATGGCAGGGCCGCT
+NE|Pteropus_vampyrus        TGTCTGGTCTGCTGGATGCTGCTGCCGCTACCGAGGATGGCAGGGCCGCT
+                              ******* ** ***** ************ ************* ** *
+
+E|Orcinus_orca              TCCGCTTTGCCAGAAAACCCTTCTGTGTCATTGACTTCATCGTGTTCGTG
+NE|Homo_sapiens             TCCGCTTTGCCAGAAAGCCCTTCTGTGTCATCGACTTCATCGTGTTCGTG
+E|Eptesicus_fuscus          TCCGCTTTGCCAGAAAACCCTTCTGTGTCATAGACTTCATCGTGTTCGTG
+E|Hipposideros_armiger      TCCGCTTTGCCAGAAAACCCTTCTGTGTCATTGACTTCATCGTCTTCGTG
+NE|Cynopterus_sphinx        TCCGCTTTGCCAGAAAACCCTTCTGTGTCATCGACTTCATCGTGTTCGTG
+NE|Pteropus_vampyrus        TCCGCTTTGCCAGAAAACCCTTCTGTGTCATCGACTTCATCGTGTTCGTG
+                            **************** ************** *********** ******
+
+E|Orcinus_orca              GCCTCGGTGGCCGTCATCGCCGCCGGCACGCAGGGCAACATCTTTGCCAC
+NE|Homo_sapiens             GCCTCGGTGGCCGTCATCGCCGCGGGTACCCAGGGCAACATCTTCGCCAC
+E|Eptesicus_fuscus          GCCTCGGTGGCCGTCATCGCCGCGGGCACGCAGGGCAACATCTTCGCCAC
+E|Hipposideros_armiger      GCCTCGGTGGCCGTCATCGCCGCGGGCACGCAGGGCAACATCTTTGCCAC
+NE|Cynopterus_sphinx        GCCTCGGTGGCTGTCATCGCGGCGGGCACGCAGGGCAACATCTTTGCCAC
+NE|Pteropus_vampyrus        GCCTCGGTGGCTGTCATCGCTGCGGGCACGCAGGGCAACATCTTTGCCAC
+                            *********** ******** ** ** ** ************** *****
+
+E|Orcinus_orca              GTCTGCGTTGCGCAGCATGCGCTTCCTGCAGATCCTGCGCATGGTGCGCA
+NE|Homo_sapiens             GTCCGCGCTGCGCAGCATGCGCTTCCTGCAGATCCTGCGCATGGTGCGCA
+E|Eptesicus_fuscus          GTCTGCGCTGCGCAGCATGCGCTTCCTGCAGATCCTGCGCATGGTGCGCA
+E|Hipposideros_armiger      GTCTGCGTTGCGCAGCATGCGCTTCCTGCAGATCCTGCGCATGGTGCGCA
+NE|Cynopterus_sphinx        GTCCGCGCTGCGCAGCATGCGCTTCCTGCAGATCCTGCGCATGGTGCGCA
+NE|Pteropus_vampyrus        GTCTGCGTTGCGCAGCATGCGCTTCCTGCAGATCCTGCGCATGGTGCGCA
+                            *** *** ******************************************
+
+E|Orcinus_orca              TGGACCGCCGCGGCGGCACCTGGAAGCTGCTGGGCTCGGTGGTTCTCGCT
+NE|Homo_sapiens             TGGACCGCCGCGGCGGCACCTGGAAGCTGCTGGGCTCAGTGGTCTACGCG
+E|Eptesicus_fuscus          TGGACCGCCGCGGCGGCACCTGGAAGCTGCTGGGCTCCGTGGTCATGGCG
+E|Hipposideros_armiger      TGGACCGCCGCGGCGGCACCTGGAAGCTGCTGGGCTCGGTGGTCTACGCG
+NE|Cynopterus_sphinx        TGGACCGCCGCGGCGGCACCTGGAAGCTGCTGGGCTCGGTGGTTTACGCG
+NE|Pteropus_vampyrus        TGGACCGCCGCGGCGGCACCTGGAAGCTGCTGGGCTCGGTGGTTTACGCG
+                            ************************************* *****    ** 
+
+E|Orcinus_orca              CACAGCAAGGAGCTGATCACCGCCTGGTACATCGGGTTTCTGGTGCTCAT
+NE|Homo_sapiens             CATAGCAAGGAGCTGATCACCGCCTGGTACATCGGGTTCCTGGTGCTCAT
+E|Eptesicus_fuscus          CACAGCAAGGAGCTGATCACCGCCTGGTACATCGGGTTCCTGGTGCTCAT
+E|Hipposideros_armiger      CACAGCAAGGAGCTGATCACCGCCTGGTACATTGGGTTCCTGGTGCTTAT
+NE|Cynopterus_sphinx        CACAGCAAGGAGCTGATCACCGCCTGGTACATTGGGTTCCTGGTGCTCAT
+NE|Pteropus_vampyrus        CACAGCAAGGAGCTGATCACCGCCTGGTACATTGGGTTCCTGGTGCTCAT
+                            ** ***************************** ***** ******** **
+
+E|Orcinus_orca              CTTCGCCTCCTTCCTGGTCTATCTGGCTGAGAAGGACGCCAACTCCGACT
+NE|Homo_sapiens             CTTCGCCTCCTTCCTGGTCTACCTGGCTGAGAAGGACGCCAACTCCGACT
+E|Eptesicus_fuscus          CTTTGCCTCCTTCCTGGTCTATCTGGCCGAGAAGGACGCCAACTCTGACT
+E|Hipposideros_armiger      CTTCGCCTCCTTCCTGGTCTATCTGGCTGAGAAGGACGCCAACTCCGACT
+NE|Cynopterus_sphinx        CTTCGCCTCCTTCCTGGTCTATCTGGCCGAGAAAGACGCCAACTCTGACT
+NE|Pteropus_vampyrus        CTTCGCCTCCTTCCTGGTCTATCTGGCCGAGAAAGACGCCAACTCTGACT
+                            *** ***************** ***** ***** *********** ****
+
+E|Orcinus_orca              TCTCCTCCTACGCCGACTCGCTCTGGTGGGGGACGATTACACTGACGACC
+NE|Homo_sapiens             TCTCCTCCTACGCCGACTCGCTCTGGTGGGGGACGATTACATTGACAACC
+E|Eptesicus_fuscus          TCTCCTCCTACGCTGACTCGCTTTGGTGGGGAACGATCACCCTGACAACC
+E|Hipposideros_armiger      TCTCCTCCTATGCCGACTCGCTCTGGTGGGGAACGATTACACTGACGACC
+NE|Cynopterus_sphinx        TCTCCTCCTACGCCGACTCGCTCTGGTGGGGGACGATTACACTGACGACC
+NE|Pteropus_vampyrus        TCTCCTCCTACGCCGACTCGCTCTGGTGGGGAACGATTACACTGACGACC
+                            ********** ** ******** ******** ***** **  **** ***
+
+E|Orcinus_orca              ATTGGCTATGGTGACAAGACACCACACACGTGGCTGGGCAGGGTCCTGGC
+NE|Homo_sapiens             ATCGGCTATGGTGACAAGACACCGCACACATGGCTGGGCAGGGTCCTGGC
+E|Eptesicus_fuscus          ATCGGCTATGGTGACAAGACGCCTCACACGTGGCTGGGCAGGGTCCTGGC
+E|Hipposideros_armiger      ATTGGCTATGGTGACAAGACGCCTCACACGTGGCTGGGCAGGGTCCTGGC
+NE|Cynopterus_sphinx        ATCGGCTATGGTGACAAGACGCCTCACACGTGGTTGGGCAGGGTCCTGGC
+NE|Pteropus_vampyrus        ATCGGCTATGGTGACAAGACGCCTCACACGTGGCTGGGCAGGGTCCTGGC
+                            ** ***************** ** ***** *** ****************
+
+E|Orcinus_orca              TGCTGGCTTCGCCTTACTAGGCGTCTCCTTCTTTGCCTTGCCTGCCGGCA
+NE|Homo_sapiens             TGCTGGCTTCGCCTTACTGGGCATCTCTTTCTTTGCCCTGCCTGCCGGCA
+E|Eptesicus_fuscus          TGCCAGCTTCGCCTTACTAGGCATCTCCTTCTTTGCCTTGCCTGCCGGCA
+E|Hipposideros_armiger      TGCTGGCTTCGCCTTACTAGGCGTCTCCTTCTTTGCCTTGCCTGCCGGCA
+NE|Cynopterus_sphinx        TGCTGGCTTCGCCTTACTAGGCATCTCTTTCTTTGCCTTGCCTGCTGGTA
+NE|Pteropus_vampyrus        TGCTGGCTTCGCCTTACTAGGCATCTCTTTCTTTGCCTTGCCTGCTGGCA
+                            ***  ************* *** **** ********* ******* ** *
+
+E|Orcinus_orca              TCCTTGGCTCCGGCTTTGCCCTGAAGGTGCAGGAGCAGCACAGGCAGAAG
+NE|Homo_sapiens             TCCTAGGCTCCGGCTTTGCCCTGAAGGTCCAGGAGCAGCACCGGCAGAAG
+E|Eptesicus_fuscus          TCCTCGGCTCTGGCTTTGCCCTGAAGGTGCAGGAGCAGCATCGGCAGAAG
+E|Hipposideros_armiger      TCCTCGGCTCCGGCTTTGCCCTGAAGGTGCAGGAGCAGCACCGGCAGAAG
+NE|Cynopterus_sphinx        TCCTGGGATCTGGCTTTGCCCTGAAGGTGCAGGAGCAGCACCGGCAGAAG
+NE|Pteropus_vampyrus        TCCTGGGATCTGGCTTTGCCCTGAAGGTGCAGGAGCAGCACCGGCAGAAG
+                            **** ** ** ***************** ***********  ********
+
+E|Orcinus_orca              CACTTTGAGAAGCGGAGGATGCCAGCAGCCAACCTCATCCAGGCTGCATG
+NE|Homo_sapiens             CACTTCGAGAAGCGGAGGATGCCGGCAGCCAACCTCATCCAGGCTGCCTG
+E|Eptesicus_fuscus          CACTTCGAGAAGCGGAGGATGCCGGCAGCCAACCTCATTCAGGCTGCATG
+E|Hipposideros_armiger      CACTTCGAGAAGCGGAGGATGCCCGCGGCCAACCTCATCCAGGCTGCATG
+NE|Cynopterus_sphinx        CACTTTGAGAAGCGGAGGATGCCAGCAGCCAACCTCATCCAGGCTGCATG
+NE|Pteropus_vampyrus        CACTTTGAGAAGCGGAGGATGCCAGCGGCCAACCTCATCCAGGCCGCATG
+                            ***** ***************** ** *********** ***** ** **
+
+E|Orcinus_orca              GCGCCTGTACTCCACCGACACGAGCCGGGCCTACCTGACAGCCACTTGGT
+NE|Homo_sapiens             GCGCCTGTACTCCACCGATATGAGCCGGGCCTACCTGACAGCCACCTGGT
+E|Eptesicus_fuscus          GCGCCTGTACTCCACCGACAGGAACCGGGCTTACCTGACGGCCACCTGGT
+E|Hipposideros_armiger      GCGTCTGTACTCTACTGACACGAGCCGGGCCTACCTGACAGCCACTTGGT
+NE|Cynopterus_sphinx        GCGCCTGTACTCTACTGATACAAGTCGGGCCTACCTAACAGCCACCTGGT
+NE|Pteropus_vampyrus        GCGCCTGTACTCTACCGACACAAGTCGGGCCTACCTGACAGCCACCTGGT
+                            *** ******** ** ** *  *  ***** ***** ** ***** ****
+
+E|Orcinus_orca              ACTACTATGACAGCATCCTCCCGTCCTTCAAAGAGCTGGCCCTCTTGTTT
+NE|Homo_sapiens             ACTACTATGACAGTATCCTCCCATCCTTCAGAGAGCTGGCCCTCTTGTTT
+E|Eptesicus_fuscus          ACTACTATGACAGTATCCTCCCATCCTTCAGAGAGCTGGCCCTCTTGTTT
+E|Hipposideros_armiger      ACTACTACGACAGCATCCTCCCATCCTTCAGAGAGCTGGCCCTCTTGTTT
+NE|Cynopterus_sphinx        ACTACTACGACAGTATCCTCCCATCCTTCAGAGAGCTGGCTCTCTTGTTT
+NE|Pteropus_vampyrus        ACTACTACGACAGTATCCTCCCATCCTTCAGAGAGCTGGCCCTCTTGTTT
+                            ******* ***** ******** ******* ********* *********
+
+E|Orcinus_orca              GAGCACGTGCAACGGGCCCGCAACGGGGGCCTACGGCCCCTGGAGGTGCG
+NE|Homo_sapiens             GAGCACGTGCAACGGGCCCGCAATGGGGGCCTACGGCCCCTGGAGGTGCG
+E|Eptesicus_fuscus          GAGCACGTGCAACGGGCCCGCAATGGGGGCCTACGGCCCCTGGAGGTGCG
+E|Hipposideros_armiger      GAGCACGTGCAGCGGGCCCGCAATGGGGGCCTACGGCCCCTAGAGGTGCG
+NE|Cynopterus_sphinx        GAGCACGTGCAACGGGCCCGCAATGGGGGCCTACGGCCCCTGGAGGTGCG
+NE|Pteropus_vampyrus        GAGCACGTGCAACGGGCCCGCAATGGGGGCCTACGGCCCCTGGAGGTGCG
+                            *********** *********** ***************** ********
+
+E|Orcinus_orca              GCGGGCGCCAGTACCCGACGGAGCGCCCTCCCGTTACCCGCCCGTTGCCA
+NE|Homo_sapiens             GCGGGCGCCGGTACCCGACGGAGCACCCTCCCGTTACCCGCCCGTTGCCA
+E|Eptesicus_fuscus          GCGGGCGCCAGTACCCGACGGAGCGCCCTCCCGTTACCCGCCCGTTGCCA
+E|Hipposideros_armiger      ACGGGCGCCGGTACCCGACGGAGCGCCCTCTCGTTACCCGCCCGTTGCCA
+NE|Cynopterus_sphinx        GCGGGCGCCGGTACCTGATGGAGCACCCTCCCGTTACCCGCCCGTTGCCA
+NE|Pteropus_vampyrus        GCGGGCGCCGGTACCTGATGGAGCACCCTCCCGTTACCCGCCCGTTGCCA
+                             ******** ***** ** ***** ***** *******************
+
+E|Orcinus_orca              CCTGCCACCGGCCGGGCAGCACCTACTTCTGCCCTGGGGAAAGC------
+NE|Homo_sapiens             CCTGCCACCGGCCGGGCAGCACCTCCTTCTGCCCTGGGGAAAGC------
+E|Eptesicus_fuscus          CCTGCCACCGGCCGGGCAGCGCCTCCTTCTGCCCTGGGGAAAGC------
+E|Hipposideros_armiger      CCTGCCACCGGCCGGGCAGCGCCTTCTTCTGCCCTGGGGAAAGC------
+NE|Cynopterus_sphinx        CTTGCCACCGGCCGGGCAGCGCCTCCTTCTGCCCCGGGGAAAGCCAGATG
+NE|Pteropus_vampyrus        CCTGCCACCGGCCGGGCAGCGCCTCCTTCTGCCCTGGGGAAAGC------
+                            * ****************** *** ********* *********      
+
+E|Orcinus_orca              --------------------------------------------------
+NE|Homo_sapiens             --------------------------------------------------
+E|Eptesicus_fuscus          --------------------------------------------------
+E|Hipposideros_armiger      --------------------------------------------------
+NE|Cynopterus_sphinx        TTTAGTAATAAACGGAGTTTCTTTCGGATCCACGCCAGCTGGAGACCGAG
+NE|Pteropus_vampyrus        --------------------------------------------------
+                                                                              
+
+E|Orcinus_orca              -AGGCGGATGGGTATCAAAGACCGCATCCGCATGGGCAGCTCCCAGCGAC
+NE|Homo_sapiens             -AGCCGGATGGGCATCAAAGACCGCATCCGCATGGGCAGCTCCCAGCGGC
+E|Eptesicus_fuscus          -AGCCGAATGGGCATCAAAGACCGCATCCGCATAGGCAGCTCCCAGCGGC
+E|Hipposideros_armiger      -AGCCGGATGGGCATCAAAGACCGTATCCGCATAGGCAGCTCCCAGCGGC
+NE|Cynopterus_sphinx        CAGCCGGATGGGCATCAAAGACCGCATTCGCATGGGCAGTTCCCAGCGGC
+NE|Pteropus_vampyrus        -AGCCGGATGGGCATCAAAGACCGCATTCGCATGGGCAGTTCCCAGCGAC
+                             ** ** ***** *********** ** ***** ***** ******** *
+
+E|Orcinus_orca              GGACAGGCCCCTCCAAGCAGCACCTAGCACCTCCACCGATGCCCACTTCC
+NE|Homo_sapiens             GGACGGGTCCTTCCAAGCAGCATCTGGCACCTCCAACAATGCCCACCTCC
+E|Eptesicus_fuscus          GGACAGGCCCCTCCAAGCAGCACCTGGCACCGCCGTCAATGGCCACTTCC
+E|Hipposideros_armiger      GGACGGGCCCCTCCAAGCAGCACCTGGCACCGCCGTCGGTGGCCACCTCC
+NE|Cynopterus_sphinx        GGACGGGCCCCTCCAAGCAGCACCTGGCACCGCCACCAATGGCCACCTCT
+NE|Pteropus_vampyrus        GGACGGGCCCCTCCAAGCAGCACCTGGCACCGCCACCAATGGCCACCTCC
+                            **** ** ** *********** ** ***** **  *  ** **** ** 
+
+E|Orcinus_orca              CCGAGCAGTGAGCAGGAGGGGGAGGCCAGCAGCCCCACCAAGGTGCAGAA
+NE|Homo_sapiens             CCAAGCAGCGAGCAGGTGGGTGAGGCCACCAGCCCCACCAAGGTGCAAAA
+E|Eptesicus_fuscus          CCGAGCAGCGAGCAGGTGGGTGAGGCCACCAGCCCCACCAAGGTCCAGAA
+E|Hipposideros_armiger      CCAAGCAGCGAGCAGGTGGGGGAGGCCACCAGCCCCACCAAGGTGCAGAA
+NE|Cynopterus_sphinx        CCAAGCAGTGAGCAGGTGGGTGAGGCCACCAGCCCCACCAAGGTGCAGAA
+NE|Pteropus_vampyrus        CCGAGCAGCGAGCAGGTGGGTGAGGCCACCAGCCCCACCAAAGTGCAGAA
+                            ** ***** ******* *** ******* ************ ** ** **
+
+E|Orcinus_orca              GAGCTGGAGCTTCAACGACCGCACCCGCTTCCGGGCCTCCCTGAGACTCA
+NE|Homo_sapiens             GAGCTGGAGCTTCAATGACCGCACCCGCTTCCGGGCATCTCTGAGACTCA
+E|Eptesicus_fuscus          GAGCTGGAGCTTCAATGACCGCACCCGCTTCCGGGCCTCTCTGAGACTCA
+E|Hipposideros_armiger      GAGCTGGAGCTTCAATGACCGCACCCGCTTCCGGGCTTCTCTGAGACTCA
+NE|Cynopterus_sphinx        GAGCTGGAGCTTCAATGACCGCACCCGCTTCCGGGCCTCTCTGAGACTCA
+NE|Pteropus_vampyrus        GAGCTGGAGCTTCAATGACCGCACCCGCTTCCGGGCCTCTCTGAGACTCA
+                            *************** ******************** ** **********
+
+E|Orcinus_orca              AACCCCGTGCCTCCGCTGAGGAGGGCCCCTCAGAGGAAGTGGCAGAGGAG
+NE|Homo_sapiens             AACCCCGCACCTCTGCTGAGGATGCCCCCTCAGAGGAAGTAGCAGAGGAG
+E|Eptesicus_fuscus          AACCCCGCTCTTCTGCTGAGGAGGGCCCCTCCGAGGAAGTGGCAGAGGAG
+E|Hipposideros_armiger      AACCCCGATCCTCTGCTGAGGAGGGCCCCTCGGAGGAAGTGGCAGAGGAG
+NE|Cynopterus_sphinx        AACCCCGAGCTTCTGCCGAGGAGGGCCCCTCGGAGGATGTGGCAGAGGAG
+NE|Pteropus_vampyrus        AACCCCGAGCTTCTGCTGAGGAGGGCCCCTCGGAAGATGTGGCAGAGGAG
+                            *******  * ** ** ***** * ****** ** ** ** *********
+
+E|Orcinus_orca              AAGAGCTACCAGTGTGAACTCACAGTGGACGATGTCATGCCTGCCGTGAA
+NE|Homo_sapiens             AAGAGCTACCAGTGTGAGCTCACGGTGGACGACATCATGCCTGCTGTGAA
+E|Eptesicus_fuscus          AAGAGCTACCAGTGTGAGCTCACGGTGGATGACGTCATGCCTGCGGTGAA
+E|Hipposideros_armiger      AAGAGCTACCAGTGTGAGCTTACTGTAGACGACGTCATGCCTGCTGTGAA
+NE|Cynopterus_sphinx        AAGAGCTACCAGTGTGAGCTCACAGTGGACGAAGTCATGCCCGCTGTGAA
+NE|Pteropus_vampyrus        AAGAGCTACCAGTGTGAGCTCACAGTGGACGAAGTCATGCCCGCTGTGAA
+                            ***************** ** ** ** ** **  ******* ** *****
+
+E|Orcinus_orca              GACGGTCATCCGCTCTGTCAGGATCCTGAAGTTCCTGGTAGCCAAAAGGA
+NE|Homo_sapiens             GACAGTCATCCGCTCCATCAGGATTCTCAAGTTCCTGGTGGCCAAAAGGA
+E|Eptesicus_fuscus          GACGGTCATCCGCTCTGTCAGGATCCTGAAGTTCCTGGTGGCCAAAAGGA
+E|Hipposideros_armiger      GACGGTCATCCGCTCTGTCAGGATCCTGAAGTTCCTTGTGGCCAAAAGGA
+NE|Cynopterus_sphinx        GACGGTCATCCGCTCCGTCAGGATCCTGAAGTTCCTGGTGGCCAAAAGGA
+NE|Pteropus_vampyrus        GACGGTCATCCGCTCCGTCAGGATCCTGAAGTTCCTGGTGGCCAAAAGGA
+                            *** ***********  ******* ** ******** ** **********
+
+E|Orcinus_orca              AATTCAAGGAGACGCTACGACCATACGACGTGAAGGACGTCATCGAGCAG
+NE|Homo_sapiens             AATTCAAGGAGACACTGCGACCGTACGACGTGAAGGACGTCATTGAGCAG
+E|Eptesicus_fuscus          AATTCAAGGAGACGCTGCGACCATACGACGTGAAGGACGTCATAGAGCAG
+E|Hipposideros_armiger      AATTCAAGGAGACGCTGCGACCATACGACGTGAAGGACGTCATCGAGCAG
+NE|Cynopterus_sphinx        AATTCAAGGAGACCCTGCGACCGTACGACGTGAAGGACGTCATCGAGCAG
+NE|Pteropus_vampyrus        AATTCAAGGAGACCCTGCGACCATACGACGTGAAGGACGTCATCGAGCAG
+                            ************* ** ***** ******************** ******
+
+E|Orcinus_orca              TACTCAGCAGGGCACCTGGACATGCTGGGCCGGATCAAGAGTCTGCAGGG
+NE|Homo_sapiens             TACTCAGCAGGCCACCTGGACATGCTGGGCCGGATCAAGAGCCTGCAAAC
+E|Eptesicus_fuscus          TACTCGGCAGGGCACCTGGACATGCTGGGTCGGATCAAGAGCCTGCAGAC
+E|Hipposideros_armiger      TACTCAGCAGGGCACCTGGACATGCTGGGCCGGATCAAGAGCCTGCAGAC
+NE|Cynopterus_sphinx        TACTCAGCAGGGCACCTGGACATGCTGGGCCGGATCAAGAGCCTGCAGGC
+NE|Pteropus_vampyrus        TACTCAGCAGGGCACCTGGACATGCTGGGCCGGATCAAGAGCCTGCAGGC
+                            ***** ***** ***************** *********** *****   
+
+E|Orcinus_orca              CCGGGTGGACCAGATTGTCGGCCGGGGCCCCGGGGACCGGAAGTCCCGGG
+NE|Homo_sapiens             TCGGGTGGACCAAATTGTGGGTCGGGGGCCCGGGGACAGGAAGGCCCGGG
+E|Eptesicus_fuscus          CCGGGTGGACCAGATTGTGGGCAGGTGCCCCGGGGACCGAAAGGCCCGGG
+E|Hipposideros_armiger      TCGGGTGGACCAGATTGTGGGCCGGGGACTCGGGGACCGGAAGACACGGG
+NE|Cynopterus_sphinx        TCGGGTGGACCAGATTGTGGGCCGGGGTCCCGGGGACCGGAAGGCGCGAG
+NE|Pteropus_vampyrus        TCGGGTGGACCAGATTGTGGGCCGGGGTCCCGGGGACCGGAAGGCGCGGG
+                             *********** ***** **  ** * * ******* * *** * ** *
+
+E|Orcinus_orca              AGAAGGGCGACAAAGGGCCCTCCGACACGGAGGCGGTGGATGAAATCAGT
+NE|Homo_sapiens             AGAAGGGCGACAAGGGGCCCTCCGACGCGGAGGTGGTGGATGAAATCAGC
+E|Eptesicus_fuscus          AGAAGGGCGACAAGGGGCCCTCGGACACGGAGGCGGCGGATGAAATCAGC
+E|Hipposideros_armiger      AGAAGGGCGACAAGGGGCCCTCGGACACGGAGGCGGTGGATGAAATCAGT
+NE|Cynopterus_sphinx        AGAAAGGCGACAAGGGGCCCTCGGACACGGAGGCGGTGGATGAAATCAGT
+NE|Pteropus_vampyrus        AGAAAGGCGACAAGGGGCCCTCGGACACGGAGGCGGTGGATGAAATCAGT
+                            **** ******** ******** *** ****** ** ************ 
+
+E|Orcinus_orca              ATGATGGGACGCGTGGTCAAGGTGGAGAAGCAGGTGCAGTCCATCGAGCA
+NE|Homo_sapiens             ATGATGGGACGCGTGGTCAAGGTGGAGAAGCAGGTGCAGTCCATCGAGCA
+E|Eptesicus_fuscus          ATGCTGGGCCGTGTGGTCAAGGTGGAGAAGCAGGTGCAGTCCATCGAGCA
+E|Hipposideros_armiger      ATGATGGGACGCGTGGTCAAGGTGGAGAAGCAGGTGCAGTCCATCGAGCA
+NE|Cynopterus_sphinx        ATGATGGGACGCGTGGTCAAGGTGGAGAAACAGGTGCAGTCCATCGAGCA
+NE|Pteropus_vampyrus        ATGATGGGACGCGTGGTCAAGGTGGAGAAGCAGGTGCAGTCCATCGAGCA
+                            *** **** ** ***************** ********************
+
+E|Orcinus_orca              CAAGCTGGACCTGCTGTTGGGCTTCTACTCGCGCTGCCTGCGCTCTGGCA
+NE|Homo_sapiens             CAAGCTGGACCTGCTGTTGGGCTTCTATTCGCGCTGCCTGCGCTCTGGCA
+E|Eptesicus_fuscus          CAAGCTGGACCTGCTTTTGGGCTTCTACTCGAGGTGCCTGCGCTCCGGCA
+E|Hipposideros_armiger      CAAACTGGACCTGCTGTTGGGTTTCTACTCACGCTGCCTGCGCTCTGGCA
+NE|Cynopterus_sphinx        CAAACTGGACCTGCTGTTGGGCTTCTACTCGCGCTGCCTGCGCTCTGGCA
+NE|Pteropus_vampyrus        CAAACTGGACCTGCTGCTGGGTTTCTACTCGCGCTGCCTGCGTTCTGGCA
+                            *** ***********  **** ***** **  * ******** ** ****
+
+E|Orcinus_orca              CCTCGGCCAGCCTGGGCACCGTGCAAGTGCCGCTCTTCGACCCCGACATC
+NE|Homo_sapiens             CCTCGGCCAGCCTGGGCGCCGTGCAAGTGCCGCTGTTCGACCCCGACATC
+E|Eptesicus_fuscus          CCTCGGCCAGCCTGGGCACCGTGCAAATGCCGCTGTTAGACCCCGACATC
+E|Hipposideros_armiger      CCTCGGCGAGCTTGGGCACCGTGCAAGTGCCGCTCTTCGACCCCGACATC
+NE|Cynopterus_sphinx        CCTCGGCTAGCCTGGGCACCGTGCAGGTGCCGCTCTTCGACCCGGACATC
+NE|Pteropus_vampyrus        CCTCAGCTAGCCTGGGCACCGTGCAAGTGCCGCTCTTCGACCCGGACATC
+                            **** ** *** ***** *******  ******* ** ***** ******
+
+E|Orcinus_orca              ACCTCCGACTACCATAGCCCTGTGGACCACGAGGACATCTCCGTCTCCGC
+NE|Homo_sapiens             ACCTCCGACTACCACAGCCCTGTGGACCACGAGGACATCTCCGTCTCCGC
+E|Eptesicus_fuscus          ACCTCGGATTACCACAGCCCCGTGGACCACGAGGACATCTCCATCTCCGC
+E|Hipposideros_armiger      ACCTCGGACTACCACAGCCCTGTGGATCACGAGGACATCTCTGTCTCCGC
+NE|Cynopterus_sphinx        ACCTCGGACTACCACAGCCCTGTGGACCACGAGGACATCTCCGTCTCCGC
+NE|Pteropus_vampyrus        ACCTCGGACTACCACAGCCCTGTGGACCACGAGGACATCTCCGTCTCCGC
+                            ***** ** ***** ***** ***** **************  *******
+
+E|Orcinus_orca              ACAGACTCTCAGCACCTCCCGCTCGGTCAGCACCAACATGGACTGA
+NE|Homo_sapiens             ACAGACGCTCAGCATCTCCCGCTCGGTCAGCACCAACATGGACTGA
+E|Eptesicus_fuscus          ACAGACGCTCAGCATCTCCCGCTCGGTCAGCACCAACATGGACTGA
+E|Hipposideros_armiger      ACAGACGCTCAGCATCTCCCGCTCAGTCAGCACCAATATGGACTGA
+NE|Cynopterus_sphinx        ACAGACGCTCAGCA--------------------------------
+NE|Pteropus_vampyrus        ACAGACGCTCAGCATCTCCCGATCGGTCAGCACCAACATGGACTGA
+                            ****** *******                                

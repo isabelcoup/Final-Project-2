@@ -1,0 +1,13 @@
+(
+(
+E|Eptesicus_fuscus:0.04419,
+(
+E|Hipposideros_armiger:0.25926,
+E|Orcinus_orca:0.04074)
+:0.00389)
+:0.00250,
+(
+NE|Cynopterus_sphinx:0.01175,
+NE|Pteropus_vampyrus:0.01299)
+:0.01646,
+NE|Homo_sapiens:0.04112);

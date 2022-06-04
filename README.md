@@ -17,11 +17,11 @@ There are 6 .ph files. These are the phylip (newick) phylogenetic trees that cor
 - OTOF.ph
 - KCNQ4.ph
 
-prestin.txt contains the raw sequences for all 6 species for the gene prestin. 
+prestin.txt contains the raw sequences for all 6 species for the gene prestin (fasta file).
 
 The project2-final.ipynb is the jupyter notebook for my project 2.
 
-Project2-final.html is the knitted html of my project.
+Project2-final.html is the html of my project.
 
 ### Scientific question: What genetic changes in the auditory processing pathway of mammals allow for high-frequency hearing, leading to the convergent evolution of echolocation?¶
 
